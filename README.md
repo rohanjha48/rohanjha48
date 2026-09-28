@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Rohan 👋
 
-<!--
-**rohanjha48/rohanjha48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer based in Bengaluru, India.
 
-Here are some ideas to get you started:
+## What I work with
+JavaScript · TypeScript · Python · React · Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Web-Page-Listener**: [one-line description]
+- **Exp-learning-MAC**: [one-line description]
+
+## Connect
+[LinkedIn](https://linkedin.com/in/rohan-jha-a90807384)
