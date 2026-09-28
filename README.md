@@ -3,11 +3,11 @@
 Full-stack developer based in Bengaluru, India.
 
 ## What I work with
-JavaScript · TypeScript · Python · React · Node.js
+JavaScript · TypeScript · Python · React · Node.js . Java
 
 ## Projects
-- **Web-Page-Listener**: [one-line description]
-- **Exp-learning-MAC**: [one-line description]
+- **Web-Page-Listener**: 
+- **Exp-learning-MAC**: 
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/rohan-jha-a90807384)
