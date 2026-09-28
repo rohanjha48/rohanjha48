@@ -1,3 +1,4 @@
+<h1 align="center">Rohan Kumar Jha</h1>
 
 <p align="center">
   Computer Science Engineering student<br>
@@ -16,26 +17,58 @@
 
 I'm a Computer Science Engineering student specializing in Cloud Technology and Information Security. I like understanding how systems are built and how they fail, and I build small projects in JavaScript, TypeScript and Python to practice what I learn in class.
 
+I work on Linux, Windows and macOS, and I use AI tools to speed up coding, debugging and research so I can spend more time on design and problem solving.
+
 I'm looking for an internship where I can work on cloud infrastructure, security or web development and learn from an engineering team.
+
+## Education
+
+B.Tech in Computer Science Engineering, specialization in Cloud Technology and Information Security
+
+## Certifications
+
+| Certification | Issuer |
+| --- | --- |
+| AWS Security Fundamentals | Amazon Web Services |
+| AWS Cloud Practitioner Essentials | Amazon Web Services |
+| Web Development Fundamentals | IBM |
+| Risk Management and Fraud Detection Using Generative AI | IBM |
 
 ## Focus areas
 
 | Area | What I'm studying |
 | --- | --- |
-| Cloud technology | Cloud computing concepts, virtualization and deploying applications to the cloud |
-| Information security | Network security, cryptography basics and secure coding practices |
-| Web development | Front-end and back-end fundamentals with JavaScript and TypeScript |
+| Cloud technology | Cloud computing concepts, AWS fundamentals and deploying applications to the cloud |
+| Information security | Cloud security basics, risk management, fraud detection and secure coding practices |
+| Web development | Front-end and back-end fundamentals with HTML, CSS, JavaScript and TypeScript |
 
 ## Tech stack
 
 **Languages**
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+**Operating systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+</p>
+
+**Cloud and security**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Fundamentals-232F3E?style=flat-square" alt="AWS cloud fundamentals">
+  <img src="https://img.shields.io/badge/AWS-Security%20Fundamentals-232F3E?style=flat-square" alt="AWS security fundamentals">
+  <img src="https://img.shields.io/badge/Risk%20Management-Fraud%20Detection-0F62FE?style=flat-square" alt="Risk management and fraud detection">
 </p>
 
 **Tools**
@@ -44,7 +77,7 @@ I'm looking for an internship where I can work on cloud infrastructure, security
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/AI--Assisted-Development-6E56CF?style=flat-square" alt="AI-assisted development">
 </p>
 
 ## Featured projects
